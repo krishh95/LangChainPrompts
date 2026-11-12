@@ -83,4 +83,9 @@ ResearchToolWithAgent/
 
 - The model name and temperature (`0`) are set in code, not in the UI.
 - The model runs locally through Ollama. Quality of numbers and “researched” claims depends on `llama3.2`; the app does not fetch live sources.
-- `output.png` is a screenshot of a generated report.
+
+## Output
+
+This is how the output looks:
+
+![Generated research report](output.png)
